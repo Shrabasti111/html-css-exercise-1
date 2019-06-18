@@ -1,0 +1,15 @@
+body {
+    margin-left: 500px;
+}
+
+div {
+    width: 500px;
+    height: 60px;
+    border: 1px solid green; 
+    margin-top : 12px;
+    
+}
+
+.quote {
+    text-align: center;
+}
